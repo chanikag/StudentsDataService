@@ -1,0 +1,6 @@
+{
+    "MI.LEGACY_EXPRESSION_ENABLED": false,
+    "MI.SERVER_PATH": "/Users/chanika/.wso2-mi/micro-integrator/wso2mi-4.4.0",
+    "MI.JAVA_HOME": "/Users/chanika/.wso2-mi/java/jdk-21.0.6+7/Contents/Home",
+    "MI.useLocalMaven": false
+}
